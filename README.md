@@ -54,5 +54,5 @@ The project features a native desktop telemetry simulator. Because the trained n
 * **Visualization Layer:** Sequential streaming across the shortwave and near-infrared spectral spectrum.
 
 
-![Pareto Frontier](assets/image_83d3aa.png)
-![Live Telemetry Stream](assets/image_8f2dc9.png)
+![Pareto Frontier](83d3aa.png)
+![Live Telemetry Stream](8f2dc9.png)
